@@ -29,7 +29,7 @@
 - 🎓 B.Tech CSE Student  
 - 🌱 Currently building core programming & development skills  
 - ⚡ Focused on consistency, logic building & real growth  
-- 🎯 Goal: Strong placement in top tech companies  
+- 🎯 Goal-oriented and consistency-driven  
 
 ---
 
@@ -41,13 +41,6 @@
 
 ---
 
-## 🏆 GitHub Highlights
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Codernish2407&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
 
 ## 📊 GitHub Analytics
 
@@ -74,7 +67,7 @@
 | Project | Description |
 |--------|------------|
 | Portfolio Website | Personal portfolio to showcase work |
-| Learning Projects | Practice-based coding & concepts |
+| Hackathon Project | Designed to help students manage distractions and improve focus |
 | Future Builds | More real-world projects coming soon |
 
 ---
@@ -83,7 +76,7 @@
 
 - Data Structures & Problem Solving  
 - Web Development Fundamentals  
-- Logic Building in C  
+- Logic Building and Computer fundamentals  
 
 ---
 
@@ -92,8 +85,3 @@
 > Learning by doing. Improving through consistency.
 
 ---
-
-## 🤝 Let's Connect
-
-- 📧 banerjeenishtha24@gmail.com  
-- 💼 LinkedIn: nishtha-banerjee-392406315  
