@@ -1,7 +1,13 @@
-<h1 align="center">Hi 👋, I'm Nishtha</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Nishtha%20Banerjee&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=CSE+Student;Future+Software+Developer;Learning+Step+by+Step;Building+My+Journey" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=CSE+Student+%7C+Aspiring+Software+Developer;Focused+on+Consistency+and+Growth;Building+Skills+Step+by+Step;Future+Engineer+in+Progress" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Codernish2407&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 <p align="center">
@@ -18,20 +24,16 @@
 
 ---
 
-<h3 align="center">✨ Learning. Growing. Becoming Better Everyday.</h3>
+## 👩‍💻 About Me
+
+- 🎓 B.Tech CSE Student  
+- 🌱 Continuously learning and improving  
+- ⚡ Focused on building a strong tech foundation  
+- 🎯 Goal-oriented and consistency-driven  
 
 ---
 
-## 🌙 About Me
-
-- 🎓 CSE Student  
-- 🌱 Learning & growing step by step  
-- 💡 Focused on consistency  
-- 🚀 Exploring opportunities in tech  
-
----
-
-## ⚙️ Tech Space
+## ⚙️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,c,html,css,js,vscode,github" />
@@ -39,32 +41,26 @@
 
 ---
 
-## 📊 GitHub Energy
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Codernish2407&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Codernish2407&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Codernish2407&theme=tokyonight" />
-</p>
-
----
-
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Codernish2407&theme=tokyo-night" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Codernish2407&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 💭 Thought
+## 📈 Contribution Activity
 
-"Small steps daily lead to big results."
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Codernish2407&theme=tokyo-night&hide_border=true" />
+</p>
 
 ---
 
-## 🚀 My Journey
+## 💭 Approach:
 
-Starting from basics → building consistency → aiming for big goals 💻
+> “Consistency and discipline turn small efforts into meaningful outcomes.”
