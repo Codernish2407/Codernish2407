@@ -67,7 +67,7 @@
 | Project | Description |
 |--------|------------|
 | Portfolio Website | Personal portfolio to showcase work |
-| Hackathon Project | Designed to help students manage distractions and improve focus |
+| FocusFlex: Hackathon Project | Designed to help students manage distractions and improve focus |
 | Future Builds | More real-world projects coming soon |
 
 ---
