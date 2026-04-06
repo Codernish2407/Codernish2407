@@ -1,7 +1,7 @@
-<h1 align="center">Welcome to My GitHub Universe 🚀</h1>
+<h1 align="center">Hi 👋, I'm Nishtha</h1>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/your-user-id" width="150" style="border-radius:50%" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=CSE+Student;Future+Software+Developer;Learning+Step+by+Step;Building+My+Journey" />
 </p>
 
 <p align="center">
@@ -18,28 +18,28 @@
 
 ---
 
+<h3 align="center">✨ Learning. Growing. Becoming Better Everyday.</h3>
+
+---
+
 ## 🌙 About Me
-✨ CSE Student  
-🌱 Learning & growing  
-🚀 Exploring opportunities  
+
+- 🎓 CSE Student  
+- 🌱 Learning & growing step by step  
+- 💡 Focused on consistency  
+- 🚀 Exploring opportunities in tech  
 
 ---
 
-## 🛠 Tech Stack
+## ⚙️ Tech Space
 
-### 💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,c,html,css,js" />
-</p>
-
-### ⚙️ Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,github,firebasestudio" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,html,css,js,vscode,github" />
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Energy
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Codernish2407&show_icons=true&theme=tokyonight" />
@@ -51,8 +51,20 @@
 
 ---
 
-## 🔥 Contribution Graph
+## 📈 Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Codernish2407&theme=tokyo-night" />
 </p>
+
+---
+
+## 💭 Thought
+
+"Small steps daily lead to big results."
+
+---
+
+## 🚀 My Journey
+
+Starting from basics → building consistency → aiming for big goals 💻
