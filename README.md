@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=CSE+Student+%7C+Aspiring+Software+Developer;Focused+on+Consistency+and+Growth;Building+Skills+Step+by+Step;Future+Engineer+in+Progress" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=CSE+Student+%7C+Aspiring+Software+Developer;Focused+on+Building+Strong+Foundations;Learning+Consistently+%7C+Growing+Daily" />
 </p>
 
 <p align="center">
@@ -12,13 +12,13 @@
 
 <p align="center">
   <a href="https://github.com/Codernish2407">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?logo=github">
+    <img src="https://img.shields.io/badge/GitHub-black?logo=github">
   </a>
   <a href="mailto:banerjeenishtha24@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail">
+    <img src="https://img.shields.io/badge/Email-red?logo=gmail">
   </a>
   <a href="https://www.linkedin.com/in/nishtha-banerjee-392406315/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin">
   </a>
 </p>
 
@@ -27,16 +27,24 @@
 ## 👩‍💻 About Me
 
 - 🎓 B.Tech CSE Student  
-- 🌱 Continuously learning and improving  
-- ⚡ Focused on building a strong tech foundation  
-- 🎯 Goal-oriented and consistency-driven  
+- 🌱 Currently building core programming & development skills  
+- ⚡ Focused on consistency, logic building & real growth  
+- 🎯 Goal: Strong placement in top tech companies  
 
 ---
 
-## ⚙️ Tech Stack
+## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,html,css,js,vscode,github" />
+  <img src="https://skillicons.dev/icons?i=c,python,html,css,js,vscode,git,github" />
+</p>
+
+---
+
+## 🏆 GitHub Highlights
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Codernish2407&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -61,6 +69,31 @@
 
 ---
 
-## 💭 Approach:
+## 🚀 Featured Projects
 
-> “Consistency and discipline turn small efforts into meaningful outcomes.”
+| Project | Description |
+|--------|------------|
+| Portfolio Website | Personal portfolio to showcase work |
+| Learning Projects | Practice-based coding & concepts |
+| Future Builds | More real-world projects coming soon |
+
+---
+
+## 📚 Currently Growing In
+
+- Data Structures & Problem Solving  
+- Web Development Fundamentals  
+- Logic Building in C  
+
+---
+
+## 🎯 Approach
+
+> Learning by doing. Improving through consistency.
+
+---
+
+## 🤝 Let's Connect
+
+- 📧 banerjeenishtha24@gmail.com  
+- 💼 LinkedIn: nishtha-banerjee-392406315  
