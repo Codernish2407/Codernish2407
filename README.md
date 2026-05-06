@@ -85,3 +85,12 @@
 > Learning by doing. Improving through consistency.
 
 ---
+## 🏅 Achievements & Programs
+
+<p align="center">
+  <img src="https://github.com/Codernish2407/Codernish2407/blob/main/ai.png?raw=true" width="220"/>
+  <img src="https://github.com/Codernish2407/Codernish2407/blob/main/open.png?raw=true" width="220"/>
+  <img src="https://github.com/Codernish2407/Codernish2407/blob/main/contributor.png?raw=true" width="220"/>
+</p>
+
+---
