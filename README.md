@@ -66,6 +66,7 @@
 
 | Project | Description |
 |--------|------------|
+| OrderIt – MERN Food Delivery System | MERN food delivery app with AI reviews and Stripe |
 | Portfolio Website | Personal portfolio to showcase work |
 | FocusFlex: Hackathon Project | Designed to help students manage distractions and improve focus |
 | Threads Of Time | Luxury editorial website inspired by Chikankari heritage |
