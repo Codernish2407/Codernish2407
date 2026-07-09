@@ -56,9 +56,9 @@
 
 ## 📈 Contribution Activity
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Codernish2407&theme=tokyo-night&hide_border=true" />
-</p>
+</p> -->
 
 ---
 
